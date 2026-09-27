@@ -1,0 +1,29 @@
+[
+  { "username":"fokrulislambd@gmail.com",
+    "password": "Iamking123@",
+    "titlePrefix": "Tech Conference",
+    "description": "Annual technology conference for developers",
+    "city": "New York",
+    "venue": "HICC Convention Center",
+    "dateTime": "2026-12-15T10:00",
+    "price": "100",
+    "totalSeats": "100",
+    "fullName": "Mir Md Fokrul Islam",
+    "email": "mir.student@example.com",
+    "phone": "5713029404"
+  },
+  {
+    "username":"fokrulislambd@gmail.com",
+    "password": "Iamking123@",
+    "titlePrefix": "QA summit 2026",
+    "description": "Live music festival with top artists",
+    "city": "New Jercy",
+    "venue": "Palace Grounds",
+    "dateTime": "2026-10-20T18:00",
+    "price": "50",
+    "totalSeats": "200",
+    "fullName": "Test Automation User",
+    "email": "automation.test@example.com",
+    "phone": "5765432109"
+  }
+]
